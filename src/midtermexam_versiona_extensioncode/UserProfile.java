@@ -15,7 +15,7 @@ package midtermexam_versiona_extensioncode;
  */
 public class UserProfile 
 {
-    
+    //Adding user comments for purpose of question!!!!
     private String userID;//the userID
     private String genre;// the user's preferred genre of movie
     public String[] genres = {"Comedy", "Drama", "Action", "Mystery"};//available genres of movies
